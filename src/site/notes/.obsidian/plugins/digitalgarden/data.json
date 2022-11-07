@@ -1,0 +1,21 @@
+{
+  "githubRepo": "Vileron-Garden",
+  "githubToken": "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",
+  "githubUserName": "NIk0l41",
+  "gardenBaseUrl": "https://glittery-gumption-f96dbb.netlify.app/",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Digital Garden",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": false
+  }
+}
